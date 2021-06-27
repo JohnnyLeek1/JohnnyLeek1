@@ -16,15 +16,8 @@ I'm also learning SCSS to integrate into my React.JS projects.
 #### What languages am I familiar with?
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnnyLeek1&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<hr>
+<hr />
+
 <p align="center">
-  
-  You can find me here
-  <p align="center">
-    <a href="https://johnnyleek.dev">Website</a>
-    • 
-    <a href="https://www.linkedin.com/in/johnny-leek">LinkedIn</a>
-    • 
-    <a href="https://instagram.com/johnny_leek/">Instagram</a>
-  </p>
+    <a href="https://johnnyleek.dev">Website</a> | <a href="https://linkedin.com/in/johnny-leek">LinkedIn</a> | <a href="https://instagram.com/johnny_leek">Instagram</a>
 </p>
