@@ -6,7 +6,7 @@ A passionate and driven software engineer.
 <br />
 
 #### Who am I?
-I'm a 19 year old, 3rd year student at Central Michigan University studying Computer Science. 
+I'm a 20 year old, 3rd year student at Central Michigan University studying Computer Science. 
 
 #### What am I currently doing?
 I'm currently interning as a frontend software engineer at Esri on the ArcGIS Dashboard team!
