@@ -9,7 +9,9 @@ A passionate and driven software engineer.
 I'm a 20 year old, 3rd year student at Central Michigan University studying Computer Science. 
 
 #### What am I currently doing?
-I'm currently interning as a frontend software engineer at Esri on the ArcGIS Dashboard team!
+I'm currently finishing up my first year of grad school, as well as my last year of undergrad!
+
+I'll be interning with Microsoft in the summer of 2022, which I'm incredibly excited for!
 
 I'm also learning SCSS to integrate into my React.JS projects.
 
