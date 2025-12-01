@@ -6,7 +6,7 @@ A passionate and driven software engineer.
 <br />
 
 #### Who am I?
-I'm a 21 year old computer programmer currently living in Seattle, WA.
+I'm a 24 year old computer programmer currently living in Seattle, WA.
 
 I hold both a Bachelors and a Master's Degree in Computer Science, and work for Microsoft as a Software Engineer
 
